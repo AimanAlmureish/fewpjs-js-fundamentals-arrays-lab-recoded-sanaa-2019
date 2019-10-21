@@ -2,11 +2,11 @@
 const append = ["Milo", "Otis", "Garfield"];
 append.push("Odie");
 const prepend = ["Milo", "Otis", "Garfield"];
-append.unshift("Odie");
+// append.unshift("Odie");
 
 const removeLast = ["Milo", "Otis", "Garfield"];
-append.push("Garfield");
+// append.push("Garfield");
 
 const Remove = ["Milo", "Otis", "Garfield"];
-append.shift("Milo");
+// append.shift("Milo");
 
