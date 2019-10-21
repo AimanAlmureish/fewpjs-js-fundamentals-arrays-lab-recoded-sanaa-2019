@@ -8,5 +8,5 @@ const removeLast = ["Milo", "Otis", "Garfield"];
 removeLast.pop("Garfield");
 
 const removefirst = ["Milo", "Otis", "Garfield"];
-removefirst.shift("Milo");
+removefirst.unshift("Milo");
 
