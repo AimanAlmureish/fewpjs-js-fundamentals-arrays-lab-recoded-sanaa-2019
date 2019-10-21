@@ -1,6 +1,6 @@
 // Write your solution here!
 const append = [];
-append.push("Odie");
+// append.push("Odie");
 const prepend = ["Milo", "Otis", "Garfield"];
 // append.unshift("Odie");
 
