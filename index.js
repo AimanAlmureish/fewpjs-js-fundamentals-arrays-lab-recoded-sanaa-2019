@@ -2,6 +2,8 @@
 const append = ["Milo", "Otis", "Garfield"];
 append.push("Odie");
 const prepend = ["Milo", "Otis", "Garfield"];
+append.shift("Odie");
+
 const removeLast = ["Milo", "Otis", "Garfield"];
 const Remove = ["Milo", "Otis", "Garfield"];
 
