@@ -5,5 +5,7 @@ const prepend = ["Milo", "Otis", "Garfield"];
 append.shift("Odie");
 
 const removeLast = ["Milo", "Otis", "Garfield"];
+append.shift("Odie");
+
 const Remove = ["Milo", "Otis", "Garfield"];
 
